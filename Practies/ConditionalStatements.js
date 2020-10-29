@@ -92,6 +92,13 @@ for (x of person) {//error person is not iterable
   console.log(x);
 }
 */
+//for each
+var names=['gayathri','thulsi','sai']
+var values=new Array('a','b',5,'c',true)
+var text ='';
+names.forEach((value)=>{
+    console.log(value)
+});
 //******************************************************************************* */
 //while
 var numbers=[1,2,2,8,3,5,8]
