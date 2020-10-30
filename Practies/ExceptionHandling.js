@@ -7,8 +7,6 @@ try{
     console.log(e.message); //Handling error  b is not defined
     }
 
-    
-
 
 try{
 var values=[4,3,2,8,6,1]
