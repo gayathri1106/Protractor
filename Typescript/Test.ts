@@ -8,9 +8,9 @@ class Test extends Employee{
  n.EMPType2_pro
  Test.EMPCode1_P
  Test.EMPType1_Pro
-
     }
 
 
 }
+
 
