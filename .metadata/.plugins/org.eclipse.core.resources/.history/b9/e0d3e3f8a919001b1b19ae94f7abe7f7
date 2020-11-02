@@ -1,0 +1,8 @@
+var Greeter = (function () {
+    function Greeter() {
+    }
+    Greeter.prototype["function"] = function () {
+        console.log('omf');
+    };
+    return Greeter;
+}());

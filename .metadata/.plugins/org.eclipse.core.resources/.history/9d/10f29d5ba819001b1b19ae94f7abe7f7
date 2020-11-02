@@ -1,0 +1,5 @@
+var Basics = (function () {
+    function Basics() {
+    }
+    return Basics;
+}());

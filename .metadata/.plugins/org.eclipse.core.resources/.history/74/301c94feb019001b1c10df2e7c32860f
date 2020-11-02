@@ -1,0 +1,6 @@
+ class ClassName {
+     var a:string ="djn";
+	constructor() {
+		
+	}
+}

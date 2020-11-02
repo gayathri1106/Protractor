@@ -1,0 +1,6 @@
+class Greeter {
+    function () {
+	console.log('omf')
+}
+    
+}

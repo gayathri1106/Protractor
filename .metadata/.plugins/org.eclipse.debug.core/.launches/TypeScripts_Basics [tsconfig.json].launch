@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="ts.eclipse.ide.core.tscLaunchConfigurationType">
+    <stringAttribute key="ts.eclipse.ide.core.BUILD_PATH" value="${workspace_loc:/TypeScripts_Basics/tsconfig.json}"/>
+</launchConfiguration>
