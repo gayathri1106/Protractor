@@ -1,6 +1,6 @@
 namespace Maths{
     
-export var num =10
+export var num =10;
     export class SUM1{
           static addC(a: any,b: any){
             return a+b;

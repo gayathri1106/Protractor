@@ -30,7 +30,7 @@ class test extends Maths.SUM1 implements Maths.sumInterFace{
             ref.addNestedC(100,200);
             ref.subNestedC(200,2);
             let ref2=Maths;
-            console.log(x)
+            console.log(x);
             console.log(y)
             console.log(z)
         }

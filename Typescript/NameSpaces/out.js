@@ -67,7 +67,7 @@ var test = /** @class */ (function (_super) {
         return a + b;
     };
     test.prototype.subI = function (a, c) {
-        return a + c;
+        return a + c ;
     };
     test.M1 = function () {
         var x = Maths.addF(5, 6);
