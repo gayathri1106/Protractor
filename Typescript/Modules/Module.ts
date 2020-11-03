@@ -29,4 +29,4 @@ function subF(a: number,c: number){
 
 }
 let x=newModule.SUM1;
-console.log(x.addC(1,2))
+console.log(x.addC(1,2));
