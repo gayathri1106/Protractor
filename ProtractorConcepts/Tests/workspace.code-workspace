@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ProtractorConcepts",
+			"path": ".."
+		},
+		{
+			"name": ".vscode",
+			"path": "..\\..\\Typescript\\.vscode"
+		}
+	],
+	"settings": {}
+}

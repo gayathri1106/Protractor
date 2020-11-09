@@ -1,5 +1,5 @@
 exports.config ={
     framework: 'jasmine',
     seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['/Users/thulasi/Project/Protractor/Jasmine/matchers.js'],
+    specs: ['C://Users//gayboya//Projects//Protractor//Jasmine//specs//Hooks.js'],
 }   
